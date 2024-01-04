@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Seymour+One&duration=4000&pause=1000&color=F7983C&random=false&width=435&lines=Hey!+I'm+Vivek+Raghuvanshi+%F0%9F%91%8B;SoftwareEngineer+%26+Developer" alt="Typing SVG" /></a>
 <h2 align="left">💫 About Me:</h2>
-<h3 align="center">A passionate Developer from India</h3>
+
 <img align ="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekraghuvanshi&label=Profile%20views&color=0e75b6&style=flat" alt="vivekraghuvanshi" /> </p>
 
